@@ -1,0 +1,7 @@
+1. First thing first, download
+	  dotnet-sdk-2.1.105-win-x64 	and
+	  gh_2.0.0_windows_amd64   ( I worked with an old versin of Visual studio 2017)
+2. Go to Package Manager Console >> run command update-database
+
+
+  
